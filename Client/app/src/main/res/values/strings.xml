@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Federated Learning App</string>
+    <string-array name="list_labels">
+        <item>None</item>
+        <item>Mild</item>
+        <item>Moderate</item>
+        <item>Moderately Severe</item>
+        <item>Severe</item>
+    </string-array>
+    <string-array name="list_gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="button_label">Label</string>
+    <string name="button_train">Train Model</string>
+    <string name="button_get_model">Load Model</string>
+    <string name="load_error">Model load failed.</string>
+    <string name="model_loaded">Global model is loaded.</string>
+    <string name="train_finish">Local training is finished.</string>
+    <string name="label_complete">Sample is labelled.</string>
+    <string name="button_inference">Infer</string>
+    <string name="button_result">Show Result</string>
+    <string name="warning_load_model">Please load global model first.</string>
+    <string name="warning_train_model">Please train local model first.</string>
+    <string name="warning_label_data">Please label the data first.</string>
+</resources>
