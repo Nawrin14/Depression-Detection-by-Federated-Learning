@@ -9,9 +9,9 @@ Depression is one of the most common mental health disorders which affects thous
 #  Demo
 
 <p float="left">
-  <img src="https://github.com/Nawrin14/Depression-Detection-by-Federated-Learning/blob/main/Figure%203%20(Part%202).png" width="200" />
-  <img src="https://github.com/Nawrin14/Depression-Detection-by-Federated-Learning/blob/main/Figure%203%20(Part%203).png" width="200" /> 
-  <img src="https://github.com/Nawrin14/Depression-Detection-by-Federated-Learning/blob/main/Figure%203%20(Part%204).png" width="200" />
+  <img src="https://github.com/Nawrin14/Depression-Detection-by-Federated-Learning/blob/main/Figure%203%20(Part%202).png" width="250" />
+  <img src="https://github.com/Nawrin14/Depression-Detection-by-Federated-Learning/blob/main/Figure%203%20(Part%203).png" width="250" /> 
+  <img src="https://github.com/Nawrin14/Depression-Detection-by-Federated-Learning/blob/main/Figure%203%20(Part%204).png" width="250" />
 </p>
 
 #  Requirements
