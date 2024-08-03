@@ -42,6 +42,8 @@ Table: Performance of the global model after each round
   journal={International Journal of Interactive Mobile Technologies},
   volume={17},
   number={1},
-  year={2023}
+  pages={40-56},
+  year={2023},
+  doi={10.3991/ijim.v17i01.35131}
 }
 ```
